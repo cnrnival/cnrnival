@@ -1,17 +1,19 @@
 name: Generate Datas
 
 on:
-  schedule:
+  schedule: # execute every 12 hours
     - cron: "0 */12 * * *"
   workflow_dispatch:
 
 permissions:
-  contents: write  # ✅ CORREÇÃO PRINCIPAL!
+  contents: write
 
 jobs:
   build:
+    name: Jobs to update datas
     runs-on: ubuntu-latest
     steps:
+      # Snake Animation
       - uses: actions/checkout@v4
       
       - uses: Platane/snk@master
