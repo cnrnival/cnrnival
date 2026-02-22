@@ -25,8 +25,8 @@
 
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cnrnival&theme=radical"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=cnrnival&theme=radical"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cnrnival&theme=dark"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=cnrnival&theme=dark"/>
 </div>
 
 
