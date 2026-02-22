@@ -34,6 +34,6 @@
   <img src="https://img.shields.io/badge/⌨️-Tecnicas-4ecdc4?style=for-the-badge&logo=keyboard&logoColor=white"/>
 </div>
 
-<div align="center">
+
 ![Snake animation](https://github.com/cnrnival/cnrnival/blob/output/github-contribution-grid-snake.svg)
-</div>
+
