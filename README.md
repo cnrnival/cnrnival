@@ -16,7 +16,10 @@
 </div>
 
 <div align="center">
-  [![Gustav's GitHub stats](https://github-readme-stats.vercel.app/api?username=cnrnival&show_icons=true&theme=radical&count_private=true)](https://github.com/cnrnival)
-  [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=cnrnival&layout=compact&theme=radical)](https://github.com/cnrnival)
+  <img src="https://github-profile-trophy.vercel.app/?username=cnrnival&theme=radical&no-frame=true&no-bg=true"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cnrnival&theme=radical"/>
 </div>
 
+<div align="center">
+<img src="https://github-stats-cc.netlify.app/api?username=cnrnival&theme=radical"/>
+</div>
