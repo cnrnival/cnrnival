@@ -16,10 +16,7 @@
 </div>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=cnrnival&theme=radical&no-frame=true&no-bg=true"/>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cnrnival&theme=radical"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=cnrnival&theme=radical"/>
 </div>
 
-<div align="center">
-<img src="https://github-stats-cc.netlify.app/api?username=cnrnival&theme=radical"/>
-</div>
