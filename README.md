@@ -33,9 +33,3 @@
 <div align="center">
   <img src="https://img.shields.io/badge/⌨️-Tecnicas-4ecdc4?style=for-the-badge&logo=keyboard&logoColor=white"/>
 </div>
-
-
-<div align="center">
-![Spotify Gustav](https://spotify-recently-played-readme.vercel.app/api?user=zny0d08osxrr8h68p5mlbysgw)
-</div>
-
