@@ -2,7 +2,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=36&pause=1000&center=true&vCenter=true&width=700&lines=Gustav+Santos;Finalista+Tecn%C3%B3logo+ADS;T%C3%A9cnico+Dev+Sistemas;Certificado+Scrum;HTML%2FJS+%7C+Python;github.com%2Fcnrnival;" alt="Typing SVG"/>
 </p>
 
-## Oiii eu sou o Gustavo Santos
+## Oi eu sou o Gustavo Santos
 
 ## 📚 **Formação & Certificações**
 
